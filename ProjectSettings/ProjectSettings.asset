@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 52ce8214951650343a06af8f0b58a2f5
+  productGUID: 9743136f5a9099a4b9db4554074611db
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: dessina
+  productName: 2026_Dessina_VS_JHC
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: dessina
+  metroPackageName: 2026_Dessina_VS_JHC
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: dessina
+  metroApplicationDescription: 2026_Dessina_VS_JHC
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -924,11 +924,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3cad1551-e637-4bb3-8a7e-3bad13d2204c
+  cloudProjectId: e201e69f-7a9a-4da7-a32b-a4ce1037db5d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: dessina
-  organizationId: joonyoung0113
+  projectName: 2026_Dessina_VS_JHC
+  organizationId: gy10140214
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
